@@ -2,36 +2,25 @@
   <img src="https://media0.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="200"/>
 </div>
 
+
 <div id="badges"  align="center">
   <a href="https://www.linkedin.com/in/maksim-markov-a5739351/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/MaksNikol">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=maxmarkov&style=flat-square&color=blue" alt=""/>
-</div>
+Hi there! 👋 I am a Data Scientist with a strong background in natural sciences and experience researching and productionalizing machine learning projects. I currently work as a data consultant in Brussels, Belgium. This is my personal page containing repositories of projects I work on in my spare time. As a former researcher, I like to delve into things to understand how they work. I also enjoy learning and working with new technology tools! 
 
-Hi there! I am a Data Scientist with a strong background in natural sciences and experience researching and productionalizing machine learning projects.
-I currently work as a data consultant in Brussels, Belgium. This is my private repository containing some of the projects I work on in my spare time. 
+My current interests are:
 
-<!--
-**maxmarkov/maxmarkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤖 Machine learning: implementing neural networks in PyTorch
+- 🐎 MLOps: deploying and maintaining machine learning models
+- 📈 Conformal Predictions: an Uncertainty Estimation Algorithm
+- 👨‍🔬 Open Data analytics and Data Science for social good 
 
-Here are some ideas to get you started:
+My techological stack consists of:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Programming language: 🐍 Python 
