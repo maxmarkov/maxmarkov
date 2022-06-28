@@ -14,6 +14,13 @@
   </a>
 </div>
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=maxmarkov&style=flat-square&color=blue" alt=""/>
+</div>
+
+Hi there! I am a Data Scientist with a strong background in natural sciences and experience researching and productionalizing machine learning projects.
+I currently work as a data consultant in Brussels, Belgium. This is my private repository containing some of the projects I work on in my spare time. 
+
 <!--
 **maxmarkov/maxmarkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
