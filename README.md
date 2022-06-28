@@ -24,3 +24,6 @@ My current interests are:
 My techological stack consists of:
 
 - 💻 Programming language: 🐍 Python 
+- 🤖 Machine learning: PyTorch, Scikit-learn 
+- 💻 Databases: SQL
+- 🐎 Deployment: Docker, Kubernetes, MLFlow
