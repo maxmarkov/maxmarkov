@@ -12,7 +12,7 @@
   </a>
 </div>
 
-Hi there! 👋 I am a Data Scientist with a strong background in natural sciences and experience researching and productionalizing machine learning projects. I currently work as a data consultant in Brussels, Belgium. This is my personal page containing repositories of projects I work on in my spare time. As a former researcher, I like to delve into things to understand how they work. I also enjoy learning and working with new technology tools! 
+Hi there! 👋 I am a Data Scientist with a strong background in natural sciences and experience researching and productionalizing machine learning projects. I currently work as a data consultant in Brussels, Belgium. This is my personal page containing repositories of projects I work on in my spare time. As a former researcher, I like to delve into things to understand how they work. I also enjoy learning and working with new technological tools!  
 
 My current interests are:
 
