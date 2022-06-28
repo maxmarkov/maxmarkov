@@ -16,14 +16,14 @@ Hi there! 👋 I am a Data Scientist with a strong background in natural science
 
 My current interests are:
 
-- 🤖 Machine learning: implementing neural networks in PyTorch
-- 🐎 MLOps: deploying and maintaining machine learning models
-- 📈 Conformal Predictions: an Uncertainty Estimation Algorithm
-- 👨‍🔬 Open Data analytics and Data Science for social good 
+- 🤖 **Machine learning**: implementing neural networks in PyTorch
+- 🐎 **MLOps**: deploying and maintaining machine learning models
+- 📈 **Conformal Predictions**: an Uncertainty Estimation Algorithm
+- 👨‍🔬 **Open Data analytics** and Data Science for social good 
 
 My techological stack consists of:
 
-- 💻 Programming language: 🐍 Python 
-- 🤖 Machine learning: PyTorch, Scikit-learn 
-- 💻 Databases: SQL
-- 🐎 Deployment: Docker, Kubernetes, MLFlow
+- 💻 **Programming language**: 🐍 Python 
+- 🤖 **Machine learning**: PyTorch, Scikit-learn 
+- 💻 **Databases**: SQL
+- 🐎 **Deployment**: Docker, Kubernetes, MLFlow
