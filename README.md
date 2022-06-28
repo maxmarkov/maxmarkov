@@ -25,7 +25,6 @@ My techological stack consists of:
 
 - 💻 **Programming language**: 🐍 Python 
 - 🤖 **Machine learning**: PyTorch, Scikit-learn 
-- 💻 **Databases**: SQL
 - 🐎 **Deployment**: Docker, Kubernetes, MLFlow
 
 <div>
@@ -40,3 +39,7 @@ My techological stack consists of:
 <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastApi" alt="FastApi" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="" alt="" width="40" height="40"/>&nbsp;
 </div>
+
+### :fire: My Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maxmarkov&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
